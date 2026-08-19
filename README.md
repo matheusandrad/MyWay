@@ -4,6 +4,8 @@ Uma aplicação web moderna, rápida e **100% privada** (executada totalmente no
 
 Inspirado no projeto [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer), porém reestruturado para a Web com foco em simplicidade, interatividade instantânea e controle total pelo usuário.
 
+Desenvolvido com auxílio do Antigravity.
+
 ---
 
 ## ✨ Funcionalidades Principais
