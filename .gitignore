@@ -1,0 +1,10 @@
+# Proteção de Privacidade - Histórico Pessoal de Localização
+Linha do Tempo.json
+Timeline.json
+*.json
+!package.json
+
+# Arquivos temporários e de SO
+.DS_Store
+Thumbs.db
+*.log
